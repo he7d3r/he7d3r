@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![he7d3r's github stats](https://github-readme-stats.vercel.app/api?username=he7d3r&show_icons=true&custom_title=Helder's%20Github%20stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he7d3r&layout=compact)](https://github.com/he7d3r/github-readme-stats)
+
 <!--
 **he7d3r/he7d3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
