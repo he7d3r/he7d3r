@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he7d3r&layout=compact)](https://github.com/he7d3r/github-readme-stats)
 
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=he7d3r)
+
 <!--
 **he7d3r/he7d3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
